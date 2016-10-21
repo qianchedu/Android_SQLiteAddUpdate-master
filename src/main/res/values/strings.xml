@@ -1,0 +1,15 @@
+<resources>
+
+
+
+    <string name="app_name">SQLite 添加和保存</string>
+    <string name="restaurant_name">Name</string>
+    <string name="restaurant_address">Address</string>
+    <string name="restaurant_type">Type</string>
+    <string name="takeout">Take-Out</string>
+    <string name="sitdown">Sit-Down</string>
+    <string name="delivery">Delivery</string>
+    <string name="save">Save</string>
+    <string name="reset">Reset</string>
+    <string name="update">Update</string>
+</resources>
